@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello, I'm Amanda!
 
-<!--
-**AmandaLiriel/AmandaLiriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical Engineer and M.Sc. student in Robotic Systems and Mechanisms.
 
-Here are some ideas to get you started:
+My interests include robotics, instrumentation, system identification, control, data acquisition, and machine learning applied to engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- Robotics and robotic mechanisms
+- Instrumentation and data acquisition
+- System identification
+- Control systems
+- Machine learning for engineering
+- CAD and prototyping
+
+## Technologies
+
+- Python
+- MATLAB
+- Git & GitHub
+- CAD
+- Microcontrollers
+- Electronics and prototyping
